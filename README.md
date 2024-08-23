@@ -14,10 +14,6 @@ Below are the images of the physical NAS setup and the Unraid profile.
 
 ![Storage](https://raw.githubusercontent.com/vanities/unraid/460fa404db1abc21aeca6bf2bfc8dbd397584d36/assets/storage.png)
 
-### Docker Services
-
-![Docker Services](https://raw.githubusercontent.com/vanities/unraid/460fa404db1abc21aeca6bf2bfc8dbd397584d36/assets/docker.png)
-
 ## Specifications
 
 | Component | Details |
@@ -38,27 +34,14 @@ Below are the images of the physical NAS setup and the Unraid profile.
 
 The NAS is running several Docker containers for various purposes:
 
-- Plex Media Server
-- Nextcloud
-- Pi-hole
-- Home Assistant
-- Wireguard VPN
+- plex
+- nextcloud
+- thelounge (irc bouncer)
+- transmission
+- open-webui
+- ethereum backup node w/ geth & lighthouse
 
-### Custom Scripts
-
-There are few custom scripts running on the NAS to automate tasks and perform maintenance:
-
-- Backup script for important data
-- Update script for Docker containers
-- Health monitoring script for the NAS
-
-### Other Cool Stuff
-
-Apart from the primary functionality, the NAS also features:
-
-- Custom fan control for optimal cooling
-- LED lighting control through Home Assistant
-- Push notifications for important events
+![Docker Services](https://raw.githubusercontent.com/vanities/unraid/460fa404db1abc21aeca6bf2bfc8dbd397584d36/assets/docker.png)
 
 ## License
 
