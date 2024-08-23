@@ -10,9 +10,13 @@ Below are the images of the physical NAS setup and the Unraid profile.
 
 ![Physical NAS Setup](https://example.com/nas-setup.jpg)
 
-### Unraid Profile
+### Storage Setup
 
-![Unraid Profile](https://example.com/unraid-profile.jpg)
+![Storage](https://raw.githubusercontent.com/vanities/unraid/460fa404db1abc21aeca6bf2bfc8dbd397584d36/assets/storage.png)
+
+### Docker Services
+
+![Docker Services](https://raw.githubusercontent.com/vanities/unraid/460fa404db1abc21aeca6bf2bfc8dbd397584d36/assets/docker.png)
 
 ## Specifications
 
@@ -26,7 +30,7 @@ Below are the images of the physical NAS setup and the Unraid profile.
 | Power Supply | Corsair CV550 |
 | Network | 1Gb Ethernet |
 
-![Specs]()
+![Specs](https://raw.githubusercontent.com/vanities/unraid/460fa404db1abc21aeca6bf2bfc8dbd397584d36/assets/specs.png)
 
 ## Additional Features
 
